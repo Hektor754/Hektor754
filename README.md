@@ -29,11 +29,6 @@
 
  **<h3 align="left">GitHub Stats</h3>**
 
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Hektor754&theme=dracula&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hektor754&theme=dracula&hide_title=false&layout=normal&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
-</p>
-
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Hektor754&repo=Studies-in-Secrecy&theme=dracula&cache_seconds=1800&border_radius=5&show_owner=false&hide_border=false&locale=en" alt="GitHub repo-card Card" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=Hektor754&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Hektor754&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hektor754&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
