@@ -27,9 +27,17 @@
 
  **<h3 align="left">Skills</h3>**
 
-<div style="display: flex; flex-wrap: wrap; gap: 18px; justify-content: left;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" alt="Python" style="margin-right: 18px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="48" alt="C++" style="margin-right: 18px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="48" alt="C" style="margin-right: 18px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="48" alt="Bash" style="margin-right: 18px">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="48" alt="MySQL" style="margin-right: 18px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" height="48" alt="Blender" style="margin-right: 18px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="48" alt="VSCode" style="margin-right: 18px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="48" alt="Git" style="margin-right: 18px"></div>
+<div style="display:flex;flex-wrap:wrap;gap:12px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"   width="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" alt="Bash"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="40" alt="Blender"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VSCode"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
+</div>
+
  
 ---
 
